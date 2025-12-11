@@ -1,0 +1,191 @@
+{
+  "en": {
+    "s1": "AIFlow",
+    "s2": "What is AIFlow?",
+    "s3": "With AIFlow, you can take control of your network. Its powerful AI technology lets you effortlessly optimize your connection for key apps, monitor usage, and quickly fix any performance issues.",
+    "s4": "AIFlow center",
+    "s5": "Optimize your network for the smoothest experience by prioritizing critical apps and combining all network connections for maximum bandwidth, while also providing tools to diagnose and fix performance issues."
+  },
+  "bg": {
+    "s1": "AIFlow",
+    "s2": "Какво е AIFlow?",
+    "s3": "С AIFlow можете да поемете контрола над вашата мрежа. Неговата мощна AI технология ви позволява без усилие да оптимизирате връзката си за ключови приложения, да наблюдавате използването и бързо да коригирате всякакви проблеми с производителността.",
+    "s4": "AIFlow център",
+    "s5": "Оптимизирайте мрежата си за най-плавно изживяване, като приоритизирате критични приложения и комбинирате всички мрежови връзки за максимална честотна лента, като същевременно предоставяте инструменти за диагностициране и коригиране на проблеми с производителността."
+  },
+  "cs": {
+    "s1": "AIFlow",
+    "s2": "Co je AIFlow?",
+    "s3": "S AIFlow můžete převzít kontrolu nad svou sítí. Jeho výkonná technologie AI vám umožní bez námahy optimalizovat připojení pro klíčové aplikace, sledovat využití a rychle opravit jakékoli problémy s výkonem.",
+    "s4": "centrum AIFlow",
+    "s5": "Optimalizujte svou síť pro co nejplynulejší provoz tím, že upřednostníte kritické aplikace a zkombinujete všechna síťová připojení pro maximální šířku pásma a zároveň poskytnete nástroje pro diagnostiku a opravu problémů s výkonem."
+  },
+  "da": {
+    "s1": "AIFlow",
+    "s2": "Hvad er AIFlow?",
+    "s3": "Med AIFlow kan du tage kontrol over dit netværk. Dens kraftfulde AI-teknologi giver dig mulighed for ubesværet at optimere din forbindelse til vigtige apps, overvåge brugen og hurtigt løse eventuelle problemer med ydeevnen.",
+    "s4": "AIFlow center",
+    "s5": "Optimer dit netværk for den glatteste oplevelse ved at prioritere kritiske apps og kombinere alle netværksforbindelser for maksimal båndbredde, mens du også leverer værktøjer til at diagnosticere og løse ydeevneproblemer."
+  },
+  "de": {
+    "s1": "AIFlow",
+    "s2": "Was ist AIFlow?",
+    "s3": "Mit AIFlow übernehmen Sie die Kontrolle über Ihr Netzwerk. Dank der leistungsstarken KI-Technologie können Sie Ihre Verbindung für wichtige Apps mühelos optimieren, die Nutzung überwachen und Leistungsprobleme schnell beheben.",
+    "s4": "AIFlow-Zentrum",
+    "s5": "Optimieren Sie Ihr Netzwerk für ein reibungsloses Erlebnis, indem Sie kritische Apps priorisieren und alle Netzwerkverbindungen für maximale Bandbreite kombinieren. Stellen Sie außerdem Tools zur Diagnose und Behebung von Leistungsproblemen bereit."
+  },
+  "el": {
+    "s1": "AIFlow",
+    "s2": "Τι είναι το AIFlow;",
+    "s3": "Με το AIFlow, μπορείτε να πάρετε τον έλεγχο του δικτύου σας. Η ισχυρή τεχνολογία AI σάς επιτρέπει να βελτιστοποιείτε αβίαστα τη σύνδεσή σας για βασικές εφαρμογές, να παρακολουθείτε τη χρήση και να διορθώνετε γρήγορα τυχόν προβλήματα απόδοσης.",
+    "s4": "Κέντρο AIFlow",
+    "s5": "Βελτιστοποιήστε το δίκτυό σας για την πιο ομαλή εμπειρία δίνοντας προτεραιότητα σε κρίσιμες εφαρμογές και συνδυάζοντας όλες τις συνδέσεις δικτύου για μέγιστο εύρος ζώνης, παρέχοντας παράλληλα εργαλεία για τη διάγνωση και τη διόρθωση προβλημάτων απόδοσης."
+  },
+  "es": {
+    "s1": "Flujo AI",
+    "s2": "¿Qué es AIFlow?",
+    "s3": "Con AIFlow, puedes controlar tu red. Su potente tecnología de IA te permite optimizar fácilmente tu conexión para aplicaciones clave, supervisar el uso y solucionar rápidamente cualquier problema de rendimiento.",
+    "s4": "Centro AIFlow",
+    "s5": "Optimice su red para disfrutar de la experiencia más fluida priorizando las aplicaciones críticas y combinando todas las conexiones de red para obtener el máximo ancho de banda, al mismo tiempo que proporciona herramientas para diagnosticar y solucionar problemas de rendimiento."
+  },
+  "fi": {
+    "s1": "AIFlow",
+    "s2": "Mikä on AIFlow?",
+    "s3": "AIFlown avulla voit hallita verkkoasi. Sen tehokkaan AI-tekniikan avulla voit vaivattomasti optimoida yhteyden tärkeimmille sovelluksille, seurata käyttöä ja korjata nopeasti kaikki suorituskykyongelmat.",
+    "s4": "AIFlow-keskus",
+    "s5": "Optimoi verkkosi sujuvimman kokemuksen saamiseksi priorisoimalla kriittiset sovellukset ja yhdistämällä kaikki verkkoyhteydet maksimaalisen kaistanleveyden saavuttamiseksi, samalla kun tarjoat työkaluja suorituskykyongelmien diagnosointiin ja korjaamiseen."
+  },
+  "fr": {
+    "s1": "Flux AIFlow",
+    "s2": "Qu'est-ce qu'AIFlow ?",
+    "s3": "Avec AIFlow, prenez le contrôle de votre réseau. Sa puissante technologie d'IA vous permet d'optimiser facilement votre connexion pour les applications clés, de surveiller votre utilisation et de corriger rapidement les problèmes de performance.",
+    "s4": "Centre AIFlow",
+    "s5": "Optimisez votre réseau pour une expérience plus fluide en priorisant les applications critiques et en combinant toutes les connexions réseau pour une bande passante maximale, tout en fournissant des outils pour diagnostiquer et résoudre les problèmes de performances."
+  },
+  "hr": {
+    "s1": "AIFlow",
+    "s2": "Što je AIFlow?",
+    "s3": "Uz AIFlow možete preuzeti kontrolu nad svojom mrežom. Njegova snažna AI tehnologija omogućuje vam da bez napora optimizirate svoju vezu za ključne aplikacije, nadzirete korištenje i brzo popravite sve probleme s izvedbom.",
+    "s4": "AIFlow centar",
+    "s5": "Optimizirajte svoju mrežu za najslađe iskustvo davanjem prioriteta kritičnim aplikacijama i kombiniranjem svih mrežnih veza za maksimalnu propusnost, dok također pružate alate za dijagnosticiranje i rješavanje problema s performansama."
+  },
+  "hu": {
+    "s1": "AIFlow",
+    "s2": "Mi az AIFlow?",
+    "s3": "Az AIFlow segítségével átveheti az irányítást a hálózata felett. Erőteljes mesterséges intelligencia technológiája segítségével könnyedén optimalizálhatja a kapcsolatot a kulcsfontosságú alkalmazásokhoz, figyelemmel kísérheti a használatot, és gyorsan kijavíthatja a teljesítményproblémákat.",
+    "s4": "AIFlow központ",
+    "s5": "Optimalizálja hálózatát a legzökkenőmentesebb élmény érdekében azáltal, hogy előnyben részesíti a kritikus alkalmazásokat, és kombinálja az összes hálózati kapcsolatot a maximális sávszélesség érdekében, miközben eszközöket biztosít a teljesítményproblémák diagnosztizálásához és kijavításához."
+  },
+  "it": {
+    "s1": "AIFlow",
+    "s2": "Che cos'è AIFlow?",
+    "s3": "Con AIFlow, puoi prendere il controllo della tua rete. La sua potente tecnologia di intelligenza artificiale ti consente di ottimizzare senza sforzo la connessione per le app principali, monitorare l'utilizzo e risolvere rapidamente eventuali problemi di prestazioni.",
+    "s4": "Centro AIFlow",
+    "s5": "Ottimizza la tua rete per un'esperienza più fluida, dando priorità alle app critiche e combinando tutte le connessioni di rete per ottenere la massima larghezza di banda, fornendo al contempo strumenti per diagnosticare e risolvere i problemi di prestazioni."
+  },
+  "ja": {
+    "s1": "AIフロー",
+    "s2": "AIFlowとは何ですか？",
+    "s3": "AIFlowを使えば、ネットワークを自在にコントロールできます。強力なAIテクノロジーにより、主要アプリの接続を簡単に最適化し、使用状況を監視し、パフォーマンスの問題を迅速に解決できます。",
+    "s4": "AIFlowセンター",
+    "s5": "重要なアプリを優先し、すべてのネットワーク接続を統合して帯域幅を最大化することで、スムーズなエクスペリエンスを実現するためにネットワークを最適化します。また、パフォーマンスの問題を診断して修正するためのツールも提供します。"
+  },
+  "ko": {
+    "s1": "AIFlow",
+    "s2": "AIFlow란 무엇인가요?",
+    "s3": "AIFlow를 사용하면 네트워크를 완벽하게 제어할 수 있습니다. 강력한 AI 기술을 통해 주요 앱의 연결을 손쉽게 최적화하고, 사용량을 모니터링하며, 성능 문제를 신속하게 해결할 수 있습니다.",
+    "s4": "AIFlow 센터",
+    "s5": "중요한 앱의 우선순위를 정하고 모든 네트워크 연결을 결합하여 최대 대역폭을 확보함으로써 네트워크를 최적화하여 가장 원활한 환경을 제공하는 동시에 성능 문제를 진단하고 해결할 수 있는 도구를 제공합니다."
+  },
+  "nb": {
+    "s1": "AIFlow",
+    "s2": "Hva er AIFlow?",
+    "s3": "Med AIFlow kan du ta kontroll over nettverket ditt. Den kraftige AI-teknologien lar deg enkelt optimalisere tilkoblingen for nøkkelapper, overvåke bruken og raskt fikse eventuelle ytelsesproblemer.",
+    "s4": "AIFlow-senter",
+    "s5": "Optimaliser nettverket ditt for den jevneste opplevelsen ved å prioritere kritiske apper og kombinere alle nettverkstilkoblinger for maksimal båndbredde, samtidig som du tilbyr verktøy for å diagnostisere og fikse ytelsesproblemer."
+  },
+  "nl": {
+    "s1": "AIFlow",
+    "s2": "Wat is AIFlow?",
+    "s3": "Met AIFlow krijgt u de controle over uw netwerk. Dankzij de krachtige AI-technologie optimaliseert u moeiteloos uw verbinding voor belangrijke apps, monitort u het gebruik en lost u snel prestatieproblemen op.",
+    "s4": "AIFlow-centrum",
+    "s5": "Optimaliseer uw netwerk voor een optimale ervaring door kritieke apps prioriteit te geven en alle netwerkverbindingen te combineren voor maximale bandbreedte. Bied daarnaast ook hulpmiddelen om prestatieproblemen te diagnosticeren en op te lossen."
+  },
+  "pl": {
+    "s1": "AIFlow",
+    "s2": "Czym jest AIFlow?",
+    "s3": "Dzięki AIFlow możesz przejąć kontrolę nad swoją siecią. Jego zaawansowana technologia sztucznej inteligencji pozwala bez wysiłku optymalizować połączenie pod kątem kluczowych aplikacji, monitorować obciążenie i szybko rozwiązywać problemy z wydajnością.",
+    "s4": "Centrum przepływu AIFlow",
+    "s5": "Zoptymalizuj swoją sieć, aby zapewnić jej płynne działanie, nadając priorytet najważniejszym aplikacjom i łącząc wszystkie połączenia sieciowe, aby uzyskać maksymalną przepustowość. Ponadto uzyskaj dostęp do narzędzi do diagnozowania i rozwiązywania problemów z wydajnością."
+  },
+  "pt": {
+    "s1": "Fluxo de ar",
+    "s2": "O que é AIFlow?",
+    "s3": "Com o AIFlow, você pode assumir o controle da sua rede. Sua poderosa tecnologia de IA permite otimizar facilmente sua conexão para aplicativos importantes, monitorar o uso e corrigir rapidamente quaisquer problemas de desempenho.",
+    "s4": "Centro AIFlow",
+    "s5": "Otimize sua rede para uma experiência mais tranquila priorizando aplicativos críticos e combinando todas as conexões de rede para obter a máxima largura de banda, além de fornecer ferramentas para diagnosticar e corrigir problemas de desempenho."
+  },
+  "ro": {
+    "s1": "AIFlow",
+    "s2": "Ce este AIFlow?",
+    "s3": "Cu AIFlow, puteți prelua controlul asupra rețelei dvs. Tehnologia sa puternică AI vă permite să vă optimizați fără efort conexiunea pentru aplicațiile cheie, să monitorizați utilizarea și să remediați rapid orice probleme de performanță.",
+    "s4": "Centrul AIFlow",
+    "s5": "Optimizați-vă rețeaua pentru cea mai bună experiență, acordând prioritate aplicațiilor critice și combinând toate conexiunile de rețea pentru o lățime de bandă maximă, oferind în același timp instrumente pentru a diagnostica și a remedia problemele de performanță."
+  },
+  "ru": {
+    "s1": "AIFlow",
+    "s2": "Что такое AIFlow?",
+    "s3": "С AIFlow вы сможете взять свою сеть под контроль. Мощная технология искусственного интеллекта позволяет легко оптимизировать подключение для ключевых приложений, отслеживать использование и быстро устранять любые проблемы с производительностью.",
+    "s4": "Центр AIFlow",
+    "s5": "Оптимизируйте свою сеть для максимально бесперебойной работы, отдав приоритет критически важным приложениям и объединив все сетевые подключения для максимальной пропускной способности, а также предоставив инструменты для диагностики и устранения проблем с производительностью."
+  },
+  "zh-CN": {
+    "s1": "AIFlow",
+    "s2": "什么是 AIFlow？",
+    "s3": "使用 AIFlow，您可以掌控自己的网络。其强大的 AI 技术让您轻松优化关键应用的连接，监控使用情况，并快速修复任何性能问题。",
+    "s4": "AIFlow中心",
+    "s5": "通过优先考虑关键应用程序并结合所有网络连接以获得最大带宽来优化您的网络以获得最流畅的体验，同时还提供诊断和修复性能问题的工具。"
+  },
+  "sk": {
+    "s1": "AIFlow",
+    "s2": "Čo je AIFlow?",
+    "s3": "S AIFlow môžete prevziať kontrolu nad svojou sieťou. Jeho výkonná technológia AI vám umožňuje bez námahy optimalizovať pripojenie pre kľúčové aplikácie, monitorovať využitie a rýchlo opraviť akékoľvek problémy s výkonom.",
+    "s4": "centrum AIFlow",
+    "s5": "Optimalizujte svoju sieť pre čo najplynulejší zážitok tým, že uprednostníte kritické aplikácie a skombinujete všetky sieťové pripojenia pre maximálnu šírku pásma a zároveň poskytnete nástroje na diagnostiku a opravu problémov s výkonom."
+  },
+  "sl": {
+    "s1": "AIFlow",
+    "s2": "Kaj je AIFlow?",
+    "s3": "Z AIFlow lahko prevzamete nadzor nad svojim omrežjem. Njegova zmogljiva tehnologija umetne inteligence vam omogoča, da brez napora optimizirate povezavo za ključne aplikacije, spremljate uporabo in hitro odpravite morebitne težave z delovanjem.",
+    "s4": "AIFlow center",
+    "s5": "Optimizirajte svoje omrežje za najbolj gladko izkušnjo tako, da daste prednost kritičnim aplikacijam in združite vse omrežne povezave za največjo pasovno širino, hkrati pa zagotovite orodja za diagnosticiranje in odpravljanje težav z zmogljivostjo."
+  },
+  "sv": {
+    "s1": "AIFlow",
+    "s2": "Vad är AIFlow?",
+    "s3": "Med AIFlow kan du ta kontroll över ditt nätverk. Dess kraftfulla AI-teknik låter dig enkelt optimera din anslutning för viktiga appar, övervaka användningen och snabbt åtgärda eventuella prestandaproblem.",
+    "s4": "AIFlow center",
+    "s5": "Optimera ditt nätverk för den smidigaste upplevelsen genom att prioritera viktiga appar och kombinera alla nätverksanslutningar för maximal bandbredd, samtidigt som du tillhandahåller verktyg för att diagnostisera och åtgärda prestandaproblem."
+  },
+  "zh-TW": {
+    "s1": "AIFlow",
+    "s2": "什麼是 AIFlow？",
+    "s3": "使用 AIFlow，您可以掌控自己的網路。其強大的 AI 技術讓您輕鬆優化關鍵應用的連接，監控使用情況，並快速修復任何效能問題。",
+    "s4": "AIFlow中心",
+    "s5": "透過優先考慮關鍵應用程式並結合所有網路連接以獲得最大頻寬來優化您的網路以獲得最流暢的體驗，同時還提供診斷和修復效能問題的工具。"
+  },
+  "tr": {
+    "s1": "AIFlow",
+    "s2": "AIFlow nedir?",
+    "s3": "AIFlow ile ağınızın kontrolünü elinize alabilirsiniz. Güçlü yapay zeka teknolojisi, bağlantınızı önemli uygulamalar için zahmetsizce optimize etmenize, kullanımı izlemenize ve performans sorunlarını hızla gidermenize olanak tanır.",
+    "s4": "AIFlow merkezi",
+    "s5": "Kritik uygulamalara öncelik vererek ve maksimum bant genişliği için tüm ağ bağlantılarını birleştirerek en sorunsuz deneyimi elde etmek için ağınızı optimize edin; ayrıca performans sorunlarını teşhis edip düzeltmek için araçlar sağlayın."
+  },
+  "uk": {
+    "s1": "AIFlow",
+    "s2": "Що таке AIFlow?",
+    "s3": "За допомогою AIFlow ви можете взяти під контроль свою мережу. Його потужна технологія штучного інтелекту дозволяє без особливих зусиль оптимізувати з’єднання для ключових програм, відстежувати використання та швидко виправляти будь-які проблеми з продуктивністю.",
+    "s4": "Центр AIFlow",
+    "s5": "Оптимізуйте свою мережу для максимальної плавності роботи, визначивши пріоритети для критично важливих програм і об’єднавши всі мережеві з’єднання для отримання максимальної пропускної здатності, а також надаючи інструменти для діагностики та вирішення проблем продуктивності."
+  }
+}
