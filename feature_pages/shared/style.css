@@ -11,10 +11,9 @@ body {
 }
 
 /* 隱藏語言選擇區塊 */
-#lang-selector {
-    /* display: none;
-    */
-}
+/* #lang-selector {
+    display: none;
+}*/
 
 h1 {
     font-size: 24px;
@@ -36,7 +35,7 @@ p {
 
 ol {
     margin: 0;
-    padding-left: 0; 
+    padding-left: 0;
 }
 
 ol li {
@@ -46,15 +45,48 @@ ol li {
     line-height: 24px;
 }
 
+ul {
+    /*margin: 0;*/
+    padding-left: 24px;
+}
+
+ul li {
+    /*list-style-position: inside;*/
+    font-size: 16px;
+    line-height: 24px;
+}
+
 .rounded-image {
     border-radius: 10px;
     max-width: 720px;
+}
+
+
+.textblock {
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    padding: 1px 16px;
 }
 
 .note {
     background-color: #f1f1f1;
     border-radius: 10px;
     padding: 1px 16px;
+}
+
+.note h2 {
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.note p {
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.note li {
+    font-size: 12px;
+    line-height: 14px;
 }
 
 .textimgtable {
@@ -141,6 +173,7 @@ ol li {
     border-radius: 0px 10px 10px 0px;
     display: block;
 }
+
 .imgtexttable video {
     width: 360px;
     height: auto;
@@ -269,4 +302,12 @@ ol li {
     font-size: 16px;
     color: #000000;
     line-height: 24px;
+}
+
+/* Brand Story */
+video {
+    width: 100%;
+    max-width: 720px;
+    border-radius: 10px;
+    display: block;
 }
