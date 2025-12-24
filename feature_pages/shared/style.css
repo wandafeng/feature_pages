@@ -1,6 +1,13 @@
 body {
     margin: 0;
-    font-family: 'Segoe UI', Arial, sans-serif;
+
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial,
+    "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Meiryo",
+    "Apple SD Gothic Neo", "Malgun Gothic",
+    "PingFang TC", "Hiragino Sans CNS", "Microsoft JhengHei",
+    "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei",
+    sans-serif;
+
     background-color: #ffffff;
 }
 
@@ -11,9 +18,9 @@ body {
 }
 
 /* 隱藏語言選擇區塊 */
-/* #lang-selector {
-    display: none;
-}*/
+#lang-selector {
+    /*display: none;*/
+}
 
 h1 {
     font-size: 24px;
@@ -35,7 +42,7 @@ p {
 
 ol {
     margin: 0;
-    padding-left: 0;
+    padding-left: 0; 
 }
 
 ol li {
@@ -47,11 +54,12 @@ ol li {
 
 ul {
     /*margin: 0;*/
-    padding-left: 24px;
+    padding-left: 24px; 
 }
 
 ul li {
     /*list-style-position: inside;*/
+    color: #6b6b6b;
     font-size: 16px;
     line-height: 24px;
 }
@@ -73,18 +81,16 @@ ul li {
     border-radius: 10px;
     padding: 1px 16px;
 }
-
 .note h2 {
     font-size: 12px;
     line-height: 14px;
 }
-
 .note p {
     font-size: 12px;
     line-height: 14px;
 }
-
 .note li {
+    color: #000000;
     font-size: 12px;
     line-height: 14px;
 }
@@ -125,6 +131,10 @@ ul li {
     font-size: 16px;
     color: #000000;
     line-height: 24px;
+}
+
+.textimgtable li {
+    color: #000000;
 }
 
 .imgtexttable {
@@ -173,13 +183,16 @@ ul li {
     border-radius: 0px 10px 10px 0px;
     display: block;
 }
-
 .imgtexttable video {
     width: 360px;
     height: auto;
     max-width: 360px;
     border-radius: 10px 0px 0px 10px;
     display: block;
+}
+
+.imgtexttable li {
+    color: #000000;
 }
 
 
